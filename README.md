@@ -1,5 +1,4 @@
 # northwind-redux-thunk-hooks
-Alışveriş Sepeti Uygulaması.
 
 Projeyi ayağa kaldırmak için gerekli adımlar:
 1-Komut satırından, northwind-redux klasörüne yerleşip "npm install" denilerek gerekli kütüphaneler yüklenir.
